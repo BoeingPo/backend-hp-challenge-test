@@ -25,4 +25,4 @@ https://drive.google.com/drive/folders/13DeqO1hU9X_5dD3Wi4NozJ89w1Ws4lWV?usp=sha
 
 6. Start Backend Server
 
-```$ ./scripts/init.sh```
+```$ ./scripts/start_server.sh```
