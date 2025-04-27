@@ -1,5 +1,5 @@
 
-# Setup backend web
+# Setup backend
 
 1. Clone Repo
 
