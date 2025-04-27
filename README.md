@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/13DeqO1hU9X_5dD3Wi4NozJ89w1Ws4lWV?usp=sha
 
 3. Place env file
 
-```$ nano .env (linux)```
+```$ nano .env ``` (linux)
 - copy info inside env.txt file then place onto .env file and put it at root level of directory
 
 4. Instance Database
