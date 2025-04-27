@@ -1,13 +1,13 @@
 ====
 Setup backend web
 ====
-Clone Repo \n
-$ git clone https://github.com/BoeingPo/backend-hp-challenge-test.git \n
+Clone Repo
+$ git clone https://github.com/BoeingPo/backend-hp-challenge-test.git
 
-Download env.txt file on Googledrive \n
+Download env.txt file on Googledrive
 https://drive.google.com/drive/folders/13DeqO1hU9X_5dD3Wi4NozJ89w1Ws4lWV?usp=sharing
 
-Place env file \n
+Place env file
 $ nano .env (linux)
 - copy info inside env.txt file then place onto .env file and put it at root level of directory
 
