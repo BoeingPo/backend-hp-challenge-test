@@ -2,7 +2,7 @@
 # Setup backend web
 
 1. Clone Repo
-$ git clone https://github.com/BoeingPo/backend-hp-challenge-test.git
+```$ git clone https://github.com/BoeingPo/backend-hp-challenge-test.git```
 
 2. Download env.txt file on Googledrive
 https://drive.google.com/drive/folders/13DeqO1hU9X_5dD3Wi4NozJ89w1Ws4lWV?usp=sharing
