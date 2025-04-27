@@ -21,8 +21,8 @@ https://drive.google.com/drive/folders/13DeqO1hU9X_5dD3Wi4NozJ89w1Ws4lWV?usp=sha
 
 5. Setup Backend
 
-```$ ./script/init_server.sh```
+```$ ./scripts/init_server.sh```
 
 6. Start Backend Server
 
-```$ ./script/init```
+```$ ./scripts/init.sh```
