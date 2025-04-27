@@ -33,6 +33,9 @@ export const readCarDB = async(pageCarObject : queryCarType) : Promise<{
 
    try{
       const records = await prisma.car.findMany({
+         orderBy: {
+            createdAt: 'desc',
+         },
          skip: skip,
          take: pageSize
       })

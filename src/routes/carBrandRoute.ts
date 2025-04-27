@@ -9,7 +9,7 @@ router.post('/create-car',createCar);
 
 router.get('/read-car',readCar);
 
-router.patch('/update-car/:uuid',updateCar )
+router.patch('/update-car/:uuid',updateCar)
 
 router.delete('/delete-car/:uuid',deleteCar)
 

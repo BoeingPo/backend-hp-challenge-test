@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "Complied ts to js"
 npx tsc
 
